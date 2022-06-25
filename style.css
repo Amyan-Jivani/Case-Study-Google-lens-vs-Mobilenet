@@ -1,0 +1,47 @@
+body{
+    background-color: cadetblue;
+}
+
+b{
+    font-weight: bold;
+    color: chocolate;
+    font-size: 21px;
+}
+
+h5{
+    color: darkkhaki;
+    font-size: 17px;
+}
+
+img{
+    height: 200px;
+    width: 150px;
+}
+
+#conclusion{
+    background-color: crimson;
+    border-radius: 10px;
+    box-shadow: 2px 2px 50px sandybrown ;
+}
+
+.img_result_comparison{
+    border-radius: 10px;
+    background-color: silver;
+    color: dimgray;
+}
+
+#sp1{
+color: green;
+}
+
+#sp2{
+    color: red;
+}
+
+#sp3{
+    color: goldenrod;
+}
+
+#sp4{
+    color: black;
+}
